@@ -1,4 +1,4 @@
-package Game_With_Integers;
+package Q4_Game_With_Integers;
 import java.util.Scanner;
 
 
